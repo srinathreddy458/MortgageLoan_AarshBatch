@@ -13,5 +13,10 @@ namespace MortgageLoan_Project_Aarsh.User
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
